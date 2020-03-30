@@ -36,7 +36,7 @@ A drop-down menu to choose between the available video samples.<br>_Each demo is
 configured with custom presets, but you can override them after the video is
 loaded._<br><br>📺You can also load your own custom videos by adding the
 following URL parameter: `?v=<PATH_TO_YOUR_CUSTOM_VIDEO_URL>`<br>For best
-results, use a non-DRM video stream close in size to 640x360 or 480x360. You can
+results, use a non-DRM HTML5 video stream close in size to 640x360 or 480x360. You can
 also optionally specify a starting timestamp with `#t=<SECONDS>`
 
 ### **Effects**
