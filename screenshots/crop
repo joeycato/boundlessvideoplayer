@@ -1,0 +1,2 @@
+rem mkdir cropped
+rem convert -crop 978x558+1+116 *.png -set filename:base "%[basename]" "./cropped/%[filename:base].png"
