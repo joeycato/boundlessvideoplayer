@@ -58,8 +58,8 @@ Additional effects you can apply to improve the visualization
     where 0.1 <= R <= 2 )_
 
 -   **Blurriness (pixels)** - Applies a Gaussian blur on the projection, based on
-    the defined pixel radius<br>_To disable the blur, set the value to 0.
-    Recommended setting: 1_<br>![](img/fx-blur2.png)<br>_( URL param: #blur=R, R =
+    the defined pixel radius<br>To disable the blur, set the value to 0.
+    Recommended setting: 1<br>![](img/fx-blur2.png)<br>_( URL param: #blur=R, R =
     pixel radius )_
 
 ## **Projection**
@@ -81,8 +81,8 @@ Additional controls to fine-tune the expansion
     -   _2D_: Pixels expand only in the four cardinal
         directions.<br>![](img/exp-2d.png)<br>_( URL param: #mode=2 )_
 
-    -   _None_: No expansion pattern is applied.<br>_Choose this mode if you just
-        want to see the main video_<br>![](img/exp-none.png)<br>_( URL param:
+    -   _None_: No expansion pattern is applied.<br>Choose this mode if you just
+        want to see the main video<br>![](img/exp-none.png)<br>_( URL param:
         #mode=3 )_
 
 -   **Show Video Edges** - Draws a white rectangle around the source region of the
