@@ -13,7 +13,7 @@ this on desktop (Chrome browser) and tested on iPhone/iPad devices. For the best
 viewing experience, a large display is recommended. FWIW it runs great on an
 Ultra Widescreen monitor 😀
 
-Click here to access the app: http://bvp.surge.sh/
+Click here to access the app: https://bvp.surge.sh/
 
 # Known issues 🐜
 
