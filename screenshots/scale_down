@@ -1,1 +1,0 @@
-convert *.png -scale 70% -set filename:base "%[basename]" "../img/%[filename:base].png"
