@@ -1,8 +1,6 @@
-# boundless video player
+![](img/bvplogo.png)
 
-![](img/logo.png)
-
-## So what is this thing?
+# So what is this thing?
 
 The **boundless video player** is an experimental web app that continuously
 resamples a video's edge pixels during playback and projects them outwards in
@@ -17,12 +15,12 @@ Ultra Widescreen monitor 😀
 
 Click here to access the app: http://bvp.surge.sh/
 
-## Known issues 🐜
+# Known issues 🐜
 
 -   iOS Chrome browser in landscape mode: Zoom toggles on unexpectedly causing
     misalignment ( please use Safari browser instead )
 
-## Settings
+# Settings
 
 ![](img/settings.png)
 
@@ -30,7 +28,7 @@ To get the most out of this app, try playing around with the following settings
 in realtime. ( Note: The URL is automatically updated to reflect your changes,
 which can be shared out to others )
 
-### **Select video**
+## **Select video**
 
 A drop-down menu to choose between the available video samples.<br>_Each demo is
 configured with custom presets, but you can override them after the video is
@@ -39,7 +37,7 @@ following URL parameter: `?v=<PATH_TO_YOUR_CUSTOM_VIDEO_URL>`<br>For best
 results, use a non-DRM HTML5 video stream close in size to 640x360 or 480x360. You can
 also optionally specify a starting timestamp with `#t=<SECONDS>`
 
-### **Effects**
+## **Effects**
 
 Additional effects you can apply to improve the visualization
 
@@ -64,7 +62,7 @@ Additional effects you can apply to improve the visualization
     Recommended setting: 1_<br>![](img/fx-blur2.png)<br>_( URL param: #blur=R, R =
     pixel radius )_
 
-### **Projection**
+## **Projection**
 
 Additional controls to fine-tune the expansion
 
@@ -110,7 +108,7 @@ Additional controls to fine-tune the expansion
 -   **About**: Opens up this document
 -   **Share URL**: Generates a URL which reflects the video selection and settings and opens a Twitter dialog for sharing.
 
-## Basic Controls
+# Basic Controls
 
 While the basic menu should give you direct access to playback and settings, the
 following keyboard shortcuts are also available for more convenience
