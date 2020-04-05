@@ -146,3 +146,5 @@ following keyboard shortcuts are also available for more convenience
 |             Escape              | Toggles video playback<br>( useful if you want to pause the screen to take a screenshot ) |
 
 <br>Have fun!<br> [@joeycato](https://twitter.com/joeycato)
+
+[![Demo](https://img.youtube.com/vi/BEVUlyltP-g/0.jpg)](https://www.youtube.com/watch?v=BEVUlyltP-g)
