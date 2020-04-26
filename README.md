@@ -144,6 +144,7 @@ following keyboard shortcuts are also available for more convenience
 | Space<br>( or Click in window ) | Toggles both menu and video playback                                                      |
 |              Enter              | Toggles settings                                                                          |
 |             Escape              | Toggles video playback<br>( useful if you want to pause the screen to take a screenshot ) |
+|  Hover/click bottom of screen   | View or change video playback progress                                                    |
 
 <br>Have fun!<br> [@joeycato](https://twitter.com/joeycato)
 
