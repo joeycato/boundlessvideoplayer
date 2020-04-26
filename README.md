@@ -28,18 +28,20 @@
 
 # So what is this thing?
 
-The **boundless video player** is an experimental web app that continuously
+The **boundless video player** is a [slit-scanning](https://en.wikipedia.org/wiki/Slit-scan_photography) web app that continuously
 resamples a video's edge pixels during playback and projects them outwards in
 3D, in effect removing that video's traditional boundaries. I originally created
 this app to rekindle the nostalgia of classic 80's music videos, but in the
 process of making it discovered it's fun to try on just about any type of video.
 
-This app _should_ work on most devices, though be aware I primarily developed
+This app _should_ work on most devices, though please be aware I primarily developed
 this on desktop (Chrome browser) and tested on iPhone/iPad devices. For the best
 viewing experience, a large display is recommended. FWIW it runs great on an
 Ultra Widescreen monitor 😀
 
-Click here to access the app: https://bvp.surge.sh/
+Click here to launch the app now: https://bvp.surge.sh/
+
+( If you'd like to test drive it with your own videos, see the instructions below )
 
 # Known issues 🐜
 
